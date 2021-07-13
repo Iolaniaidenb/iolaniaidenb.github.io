@@ -4,7 +4,7 @@ body { margin: 0; }
 
 /* GLOBAL COLORS */
 body { color: rgba(0, 0, 0, 0.8); }
-a { color: rgba(102, 0, 0, .8); }
+a { color: rgba(0, 300, 150, 0.8); }
 a:hover { color: rgba(102, 0, 0, 1); }
 
 /* GLOBAL TYPOGRAPHY */ 
@@ -25,7 +25,7 @@ img {
     display: inline-block;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgba(102, 0, 0, .8);;
+    background-color: rgba(0, 4, 255, 0.8);;
     color: white;
     border-radius: 5px;
 }
@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgba(0, 4, 255, 0.8);
+    background-color: rgba(1, 4, 255, 0.8);
     color: rgba(0, 4, 255, 0.8); 
     padding: 1em;
     display: grid;
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgba(102, 0, 0, 1);
+    background-color: rgba(0, 4, 255, 0.8);
     text-align: center;
     color: white;
     padding: 6em 1em;
